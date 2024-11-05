@@ -57,7 +57,7 @@ Make sure you have the following installed on your machine:
 ### **Cloning the Repository**
 
 ```bash
-git clone https://github.com/abdulrahman/ProteinBind.git
+git clone https://github.com/Ar141204/ProteinBind.git
 cd proteinbind
 ```
 
@@ -109,8 +109,8 @@ Using molecular docking algorithms, the system predicts how small molecules (suc
 
 Stay tuned for more updates and features! Join our community, contribute to the repository, and follow along with our detailed tutorials.
 
-## 📞 **Contact & Community**
+## 📞 **Contact**
 
 If you have any questions or need support, feel free contact us through GitHub Discussions.
 
-<a href="" target="_blank">GitHub Discussions</a>
+<a href="https://github.com/Ar141204" target="_blank">GitHub Discussions</a>
