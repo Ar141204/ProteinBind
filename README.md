@@ -107,7 +107,7 @@ Using molecular docking algorithms, the system predicts how small molecules (suc
 
 ## <a name="more">🚀 More</a>
 
-Stay tuned for more updates and features! Join our community, contribute to the repository, and follow along with our detailed tutorials.
+Stay tuned for more updates and features!
 
 ## 📞 **Contact**
 
